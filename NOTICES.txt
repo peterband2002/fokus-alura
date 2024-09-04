@@ -1,0 +1,9 @@
+Callback, é uma função que será chamada pelo JS.
+
+A tag script poderá ser adicionada no final do <head>, desde que seja acompanhada da opção defer(atrasar) <script src="teste.js" defer></script>, para que todo o html seja carregado primeiro antes de chamar o arquivo js
+
+blur: é o evento inverso do focus, e ocorre quando um elemento perde o foco. É uma evento que pode ser utilizado em funções JS
+
+O método .classList().add() adiciona mais um item à classe de um elemento. Enquanto o .classList().remove(), é autoexplicativo
+
+caso eu queira chamar uma função que foi declarada dentro de uma variável, eu obrigatoriamente tenho que chamar ela após sua declaração
