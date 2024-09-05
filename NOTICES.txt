@@ -7,3 +7,5 @@ blur: é o evento inverso do focus, e ocorre quando um elemento perde o foco. É
 O método .classList().add() adiciona mais um item à classe de um elemento. Enquanto o .classList().remove(), é autoexplicativo
 
 caso eu queira chamar uma função que foi declarada dentro de uma variável, eu obrigatoriamente tenho que chamar ela após sua declaração
+ 
+setInterval(): automatiza intervalos para execução de alguma função. Ex: setInterval(contagemRegressiva, 1000), aqui eu chamo a função "contagemRegressiva" a cada 1s. Para para o intervalo, utilizamos clearInterval()
